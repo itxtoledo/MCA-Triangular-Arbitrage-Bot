@@ -10,6 +10,7 @@
   "dependencies": {
     "binance-api-node": "^0.9.2",
     "esm": "^3.2.25",
+    "websocket": "^1.0.29",
     "websocket-as-promised": "^0.10.1"
   }
 }
